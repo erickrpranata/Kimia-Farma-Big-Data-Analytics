@@ -55,9 +55,9 @@ Beberapa perhitungan yang dilakukan meliputi:
 Analisis mencakup:
 
 1. Tren pendapatan Kimia Farma tahun 2020–2023.
-2. Perbandingan pendapatan berdasarkan wilayah.
-3. Analisis profitabilitas.
-4. Analisis performa produk.
+2. Analisis Transaksi Terbesar di provinsi Indonesia.
+3. Analisis Nett Sales terbaik di provinsi Indonesia.
+4. Analisis jenis produk paling laris.
 5. Analisis performa cabang dan rating transaksi.
 
 ## Dashboard
