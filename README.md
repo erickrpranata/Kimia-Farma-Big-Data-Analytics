@@ -10,7 +10,7 @@ Project ini bertujuan untuk menganalisis kinerja bisnis Kimia Farma selama perio
 
 Analisis dilakukan untuk:
 
-- Memahami tren pendapatan Kimia Farma selama 2020–2023.
+- Memahami tren Nett Sales Kimia Farma selama 2020–2023.
 - Menganalisis performa penjualan berdasarkan wilayah.
 - Mengidentifikasi produk dengan kontribusi penjualan dan profit terbesar.
 - Menganalisis profitabilitas berdasarkan transaksi, produk, dan wilayah.
@@ -54,11 +54,11 @@ Beberapa perhitungan yang dilakukan meliputi:
 
 Analisis mencakup:
 
-1. Tren pendapatan Kimia Farma tahun 2020–2023.
+1. Tren Nett Sales Kimia Farma tahun 2020–2023.
 2. Analisis Transaksi Terbesar di provinsi Indonesia.
 3. Analisis Nett Sales terbaik di provinsi Indonesia.
-4. Analisis jenis produk paling laris.
-5. Analisis performa cabang dan rating transaksi.
+4. Analisis performa cabang dan rating transaksi.
+5. Analisis jenis produk paling laris.
 
 ## Dashboard
 
